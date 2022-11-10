@@ -1,0 +1,4 @@
+﻿  LexicalAnalysis.cpp
+C:\Users\折木奉太郎\Desktop\CourseDesign2\LexicalAnalysis\LexicalAnalysis.cpp(298,11): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\折木奉太郎\Desktop\CourseDesign2\LexicalAnalysis\LexicalAnalysis.cpp(329,12): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  LexicalAnalysis.vcxproj -> C:\Users\折木奉太郎\Desktop\CourseDesign2\LexicalAnalysis\x64\Debug\LexicalAnalysis.exe

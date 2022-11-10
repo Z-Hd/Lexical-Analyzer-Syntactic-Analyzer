@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	int i = 1;
+	float black = 1.1;
+	1.102e+8;
+     	1+2i;
+     	3+i;
+}
